@@ -1,0 +1,28 @@
+
+body{
+	background-color: rgba(228, 245, 244);
+
+}
+
+h1{
+	color: black;
+	font-family: Courier New;
+	font-weight: bold;
+	text-align: center;
+
+}
+
+h2{
+	color: grey;
+	font-family: Palatino;
+	font-weight: bold;
+	text-align: center;
+
+}
+
+#name{
+	background-color: white;
+	margin: 50px;
+	border: 5px;
+	border-bottom-color: blue;
+}
