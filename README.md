@@ -7,7 +7,6 @@
 	</head>
 	
 	<body>
-		
 		<div id = name>
 			<h1> Gloria Kim </h1>
 			<h2> Web Dev 2019 </h2>
@@ -29,5 +28,6 @@
 		<div id = "flowers"></div>
 
 	</body>
+
 
 </html>
