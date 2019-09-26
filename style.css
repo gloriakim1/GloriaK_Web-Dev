@@ -24,7 +24,7 @@ h2{
 	background-color: white;
 	margin: 50px;
 	border: 5px;
-	border-bottom-color: blue;
+	padding: 1px;
 }
 
 nav a{
@@ -32,4 +32,11 @@ nav a{
 }
 nav ul a:hover{
 	color: lavender;
+}
+
+#flowers{
+	background-image: url("field.png");
+	height: 800px;
+	margin: 100px;
+	position: relative;
 }
