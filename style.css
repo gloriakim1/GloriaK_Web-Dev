@@ -1,0 +1,35 @@
+
+body{
+	background-color: #e4f5f4;
+
+}
+
+h1{
+	color: pink;
+	font-family: Courier New;
+	font-weight: bold;
+	text-align: center;
+
+}
+
+h2{
+	color: grey;
+	font-family: Palatino;
+	font-weight: bold;
+	text-align: center;
+
+}
+
+#name{
+	background-color: white;
+	margin: 50px;
+	border: 5px;
+	border-bottom-color: blue;
+}
+
+nav a{
+	color: black;
+}
+nav ul a:hover{
+	color: lavender;
+}
