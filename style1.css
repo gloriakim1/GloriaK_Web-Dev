@@ -10,6 +10,10 @@ h1{
   text-align: center;
 }
 
+/*https://www.w3schools.com/howto/howto_css_image_overlay.asp
+https://www.w3schools.com/howto/howto_css_zoom_hover.asp*/
+
+
 .container {
   position: relative;
   width: 90%;
