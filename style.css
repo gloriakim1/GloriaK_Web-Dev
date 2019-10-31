@@ -35,7 +35,7 @@ nav ul a:hover{
 }
 
 #flowers{
-	background-image: url("field.png");
+	background-image: url("field.png") no-repeat;
 	height: 800px;
 	margin: 100px;
 	position: relative;
