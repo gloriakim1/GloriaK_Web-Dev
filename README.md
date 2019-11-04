@@ -21,7 +21,9 @@
 					<ul><a href = "week_02.html"> Week 2 <a></ul>
 					<ul><a href = "https://gloriakim1.github.io/Self_Portrait/index.html"> Week 3 <a></ul>
 					<ul><a href = "https://gloriakim1.github.io/imagenet/index.html"> Week 4 <a></ul>
+					<ul><a href = "https://docs.google.com/presentation/d/1Q6uSJQZFfWu4okHMQ6n8xyE5h8f1TPsZ_Dz0_qn3TDU/edit#slide=id.p"> Week 6 <a></ul>
 					<ul><a href = "https://gloriakim1.github.io/midterm/index.html"> Midterm <a></ul>
+
 					
 				</h2></center>
 
