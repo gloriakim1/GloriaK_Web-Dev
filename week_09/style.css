@@ -1,0 +1,17 @@
+h1{
+	letter-spacing: 15px;
+	text-align: center;
+	color: lavender;
+}
+
+h2{
+	color: grey;
+	text-align: center;
+}
+#content{
+	color: black;
+	margin-top: 50px;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-bottom: 50px;
+}
