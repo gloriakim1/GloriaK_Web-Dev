@@ -25,6 +25,7 @@
 					<ul><a href = "https://gloriakim1.github.io/week_08/index.html"> Week 8 <a></ul>
 					<ul><a href = "https://gloriakim1.github.io/midterm/index.html"> Midterm <a></ul>
 					<ul><a href = "https://gloriakim1.github.io/week_09/index.html"> Week 9 <a></ul>
+					<ul><a href = "https://gloriakim1.github.io/week_10/index.html"> Week 1- <a></ul>
 
 					
 				</h2></center>
