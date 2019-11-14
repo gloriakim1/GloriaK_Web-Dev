@@ -1,0 +1,53 @@
+body{
+	background-color: #95d9ed;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	font-family: 'Yeon Sung', cursive;
+	font-size: 30px;
+	text-align: center;
+}
+h3{
+	font-family: 'Yeon Sung', cursive;
+	font-size: 13px;
+	text-align: center;
+}
+
+#input{
+	position: relative;
+	top: 50px;
+	right: 100px;
+	text-align: right;
+}
+
+#submit{
+	position: absolute;
+	right: 30px;
+	top: 155px;
+}
+
+#storytime{
+	position: relative;
+	top: -50px;
+	left: 100px;
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	background-color: #072B59;
+	color: white;
+	font-size: 15px;
+}
+
+#story{
+	display: none
+}
+
+
+
+
+
+
