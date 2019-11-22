@@ -1,0 +1,95 @@
+*, *::before, *::after {
+  box-sizing: border-box; 
+}
+
+body{
+  background: black;
+  background-attachment: fixed;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+}
+
+h1{
+	font-size: 20px;
+	color: white;
+}
+h2{
+	font-size: 15px;
+	color: white;
+}
+
+#text{
+	position: absolute;
+}
+
+/*https://codepen.io/seanemmel/pen/YPavLW*/
+
+.carousel_container{
+  position: relative;
+  width: 320px;
+  margin: 100px auto 0 auto;
+  perspective: 4000px;
+}
+
+.carousel{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	transform-style: preserve-3d;
+	transform: rotateY(-360deg) translateZ(-412px); 
+	animation: swirl 40s steps(10000, end) infinite; 
+}
+
+.slide{
+	position: absolute;
+	top: 150px;
+	left: 10px;
+	width: 300px;
+	height: 187px;
+}
+
+.slide img{
+	width: 200px;
+	height: 100px;
+	border: 3px inset rgba(47, 115, 201, 0.75);
+	box-shadow: 0 0 15px 3px lightblue;
+}
+
+.p1 {
+	transform: rotateY(0deg) translateZ(412px);
+}
+.p2 {
+	transform: rotateY(40deg) translateZ(412px);
+}
+.p3 {
+	transform: rotateY(80deg) translateZ(412px);
+}
+.p4 {
+	transform: rotateY(120deg) translateZ(412px);
+}
+.p5 {
+	transform: rotateY(160deg) translateZ(412px);
+}
+.p6 {
+	transform: rotateY(200deg) translateZ(412px);
+}
+.p7 {
+	transform: rotateY(240deg) translateZ(412px);
+}
+.p8 {
+	transform: rotateY(280deg) translateZ(412px);
+}
+.p9 {
+	transform: rotateY(320deg) translateZ(412px);
+}
+
+@keyframes swirl{   
+  from{
+  	transform: rotateY(-360deg);
+  }
+  to{
+    transform: rotateY(0deg);
+  }
+} 
+
