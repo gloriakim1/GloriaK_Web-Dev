@@ -1,0 +1,33 @@
+
+body{
+	background-color: white;
+}
+
+.note{
+	width: 150px;
+	height: 150px;
+	position: relative;
+	left: 45%;
+	top: 250px;
+	padding: 10px;
+	border-radius: 150px;
+}
+
+.note:hover{
+	opacity: 0;
+}
+
+.note2{
+	background-color: black;
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	left: 45.1%;
+	top: 258px;
+	opacity: 0;
+	padding: 10px;
+	border-radius: 70px;
+}
+.note2:hover{
+	opacity: 1;
+}
