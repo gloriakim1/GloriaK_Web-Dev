@@ -1,8 +1,7 @@
 // global variables
 var img1, img2, img3, img4, img5, img6, img7;
 var bg;
-let note;
-let sound;
+
 
 
 // loading images
@@ -16,7 +15,6 @@ function preload(){
 	img5 = loadImage("dotted_half.png");
 	img6 = loadImage("whole_note.png");
 	img7 = loadImage("speech.png");
-
 
 }
 
@@ -49,7 +47,6 @@ function draw(){
  	textSize(20);
  	fill(210, 226, 241);
  	text(t, 570, 0, 280, 120)
-
 
   // hover constraints for opacity
 
@@ -166,6 +163,15 @@ function draw(){
  	image(img6, 1030, 300, 105, 80);
   	
   }
+
+
+	let y = "The same applies for rests!"  
+ 	textSize(30);
+ 	fill(210, 226, 241);
+ 	text(y, 530, 550, 650, 120);
+
+
+
 
 }
 
